@@ -30,8 +30,9 @@ Usage:
       <blockquote>
       <h2>{{this_year}}</h2>
       <h3>{{this_month}}</h3>
-      <ul>
       </blockquote>
+      <ul>
+      
     {% endif %}
   
     <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
