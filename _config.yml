@@ -15,10 +15,9 @@ github_username:  tgAncel
 markdown: kramdown
 highlighter: pygments
 
-permalink: /:categories/:year-:month/:title.html
 
 excerpt_separator: ""
-
+permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
 
