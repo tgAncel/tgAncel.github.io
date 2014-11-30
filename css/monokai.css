@@ -2,6 +2,7 @@
  	background-color: #49483e;
  	font-style: normal;
  	font-family: 'Courier New','DejaVu Sans Mono','Bitstream Vera Sans Mono';
+ 	font-size: 80%
 }
 .highlight .c { color: #75715e } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
@@ -66,4 +67,4 @@
 .highlight .gu { color: #75715e; } /* Generic.Subheading & Diff Unified/Comment? */
 .highlight .gd { color: #f92672; } /* Generic.Deleted & Diff Deleted */
 .highlight .gi { color: #a6e22e; } /* Generic.Inserted & Diff Inserted */
-.highlight .lineno { color: #aae22e; } /* Generic.Inserted & Diff Inserted */
+.highlight .lineno { color: #ffe22e; } /* Generic.Inserted & Diff Inserted */
