@@ -17,7 +17,7 @@ highlighter: pygments
 
 
 excerpt_separator: ""
-permalink: pretty
+permalink: /:categories/:year/:month/:title
 paginate: 5
 exclude: ["node_modules"]
 
@@ -63,9 +63,7 @@ JB :
   #
   archive_path: /archive.html
   categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
