@@ -9,8 +9,12 @@ github_username:  tgAncel
  
 
 # Build settings
+
+mardown: redcarpet
 markdown: kramdown
 highlighter: pygments
+
+excerpt_separator: ""
 permalink: pretty
 paginate: 5
 exclude: ["node_modules"]
