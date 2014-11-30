@@ -9,10 +9,11 @@ github_username:  tgAncel
  
 
 # Build settings
-
-mardown: redcarpet
-markdown: kramdown
 highlighter: pygments
+
+markdown: redcarpet
+redcarpet:
+extensions: ["fenced_code_blocks", "tables", "highlight", "strikethrough"]
 
 excerpt_separator: ""
 permalink: pretty
