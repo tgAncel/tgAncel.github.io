@@ -32,7 +32,7 @@ int main(int argc,char *argv)
 #endif
 {% endhighlight %}
 sdfsdfsdfffffffffffffffffffff
-{% highlight c %}
+{% highlight c linenos=table %}
 
 int main(int argc,char *argv)
 {
