@@ -54,7 +54,7 @@ int abc = valfunction(10.0f, 12, "coomen");
 
 
 ```c++
-// Foo
-int bar = 0;
-int abc = c+++valfunction(10.0f, 12, "coomen");
+// Foo  
+int bar = 0;  
+int abc = c+++valfunction(10.0f, 12, "coomen");  
 ```
