@@ -44,3 +44,17 @@ category: template
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
 
 [Visit GitHub!](www.github.com)
+
+
+```
+// Foo
+var bar = 0;
+int abc = valfunction(10.0f, 12, "coomen");
+```
+
+
+```c++
+// Foo
+int bar = 0;
+int abc = c+++valfunction(10.0f, 12, "coomen");
+```
