@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "makedown 使用模板"
+date:       2014-12-03 12:00:00
+author:     "Ancel"
+header-img: "img/post-bg-10.jpg"
+category: "Guide For Set Up"
+---
+#Knowledge
+<p>SIGGRAPH Courses <a href="http://blog.selfshadow.com/">Self Shadow</a></p>
+
+#SetUp
+<p>Windows 上安装Jekyll以及 pygments的详细过程  <a href="http://jekyll-windows.juthilo.com/">jekyll setup</a></p>
+
+
+
+#Table
+
+| Item     | Value | Qty   |
+| :------- | ----: | :---: |
+| Computer | $1600 |  5    |
+| Phone    | $12   |  12   |
+| Pipe     | $1    |  234  |
+
+
+#Code
+
+{% highlight c++ linenos %}
+bool FSceneRenderer::DoOcclusionQueries(ERHIFeatureLevel::Type InFeatureLevel) const
+{
+	return !IsMobilePlatform(GRHIShaderPlatform)
+		&& CVarAllowOcclusionQueries.GetValueOnRenderThread() != 0;
+}
+{% endhighlight %}
+
+#Reference
+>>TwoShort
+
+#Image
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/cat.jpeg" alt="Post Sample Image" width = "800">
+</a>
+
+
+Table is an excellent way of presenting information, especially when a company wants to cite various prices for its services or products. For instance, some websites require users to sign up different levels of membership in order to access certain exclusive contents. They can present to users the distinct features that each level has to offer in a table-like format. Depending on the content, tables can be good for arranging many other kinds of data for deeper clarity other than pricing.
