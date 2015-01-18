@@ -2,7 +2,7 @@
 layout:     post
 title:      "Dota2 雾效实现剖析"
 subtitle:   "The Analysis of Dota2 Fog Effect"
-date:       2015-01-18 12:00:00
+date:       2015-01-18 18:00:00
 author:     "Ancel"
 header-img: "img/post-bg-13.jpg"
 tag: 迷雾，战争迷雾
@@ -13,9 +13,9 @@ category: "Game"
 
 没有运用雾效果的场景图（格式为： A2B10G10R10）
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Dota2_Fog/BeforeFogPass.jpg" alt="WithoutFog">
+    <img src="{{ site.baseurl }}/img/Dota2_Fog/BeforeFogPass.jpg" alt="WithoutFog" width= "780">
 </a>
 没有运用雾效果的场景图（格式为： A8R8G8B8）
 <a href="#">
-    <img src="{{ site.baseurl }}/img/Dota2_Fog/AfterFogPass.jpg" alt="WithFog">
+    <img src="{{ site.baseurl }}/img/Dota2_Fog/AfterFogPass.jpg" alt="WithFog" width= "780">
 </a>
