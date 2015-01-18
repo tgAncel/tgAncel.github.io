@@ -1,0 +1,11 @@
+---
+layout:     post
+title:      "伽玛校正"
+subtitle:   "Gamma Correction"
+date:       2015-01-18 12:00:00
+author:     "Ancel"
+header-img: "img/post-bg-10.jpg"
+category: "Graphics Terms"
+---
+#伽玛校正的原因
+显示器显示图像是通过把电信号转换成光信号实现的。而显示器的电压与显示器的亮度之间的关系不是线下关系，而是指数关系。
